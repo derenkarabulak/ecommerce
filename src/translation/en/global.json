@@ -1,0 +1,114 @@
+{
+    "header": {
+        "home": "Home",
+        "shop": "Shop",
+        "cart": "Cart",
+        "loggedout": "Logged out!",
+        "logout": "Log out",
+        "myorders": "My Orders",
+        "signup": "Sign up",
+        "login": "Log in"
+    },
+    "home": {
+        "trendingpr": "Trending Product",
+        "entry": "Make your Interior More Minimalistic & Modern",
+        "shopnow": "SHOP NOW",
+        "loading": "Loading",
+        "trendingproducts": "Trending Products",
+        "bestsales": "Best Sales",
+        "limitedoffers": "Limited Offers",
+        "qualityarmchair": "Quality Armchair",
+        "visitstore": "Visit Store",
+        "newarrivals": "New Arrivals",
+        "popularcategory": "Popular Category"
+    },
+    "cart":{
+        "noitem": "No items!",
+        "image": "Image",
+        "title": "Title",
+        "price": "Price",
+        "qty": "Quantity",
+        "delete": "Delete",
+        "subtotal": "Subtotal",
+        "taxes": "Taxes and shipping calculated in checkout.",
+        "checkout": "Checkout",
+        "continueshopping": "Continue Shopping"
+    },
+    "checkout": {
+        "billing": "Billing Information",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone Number",
+        "address": "Address",
+        "city": "City",
+        "postal": "Postal Code",
+        "country": "Country",
+        "totalquantity": "Total Quantity",
+        "items": "Items",
+        "shipping": "Shipping",
+        "freeshipping": "Free Shipping",
+        "totalcost": "Total Cost",
+        "placeorder": "Place an Order",
+        "orderplaced": "Order Placed!",
+        "fillblanks": "Fill the blanks!"
+    },
+    "favorites": {
+        "favorites": "Favorites"
+    },
+    "login": {
+        "password": "Password",
+        "noaccount": "Don't have an account?",
+        "create": "Create an account"
+    },
+    "myorders": {
+        "orderdeleted": "Order Deleted!"
+    },
+    "productdetails":{
+        "reviewsubmitted": "Review Submitted!",
+        "productadded": "Product added to the cart!",
+        "category": "Category",
+        "addtocart": "Add to Cart",
+        "description": "Description",
+        "reviews": "Reviews",
+        "rating": "rating",
+        "leavereview": "Leave your Review",
+        "reviewmsg": "Review Message",
+        "submit": "Submit",
+        "alsolike": "You might also like"
+    },
+    "shop": {
+        "sofa": "Sofa",
+        "armchair": "Armchair",
+        "mobile": "Mobile",
+        "chair": "Chair",
+        "watch": "Watch",
+        "wireless": "Wireless",
+        "filtercat": "Filter by Category",
+        "search": "Search"
+    },
+    "signup": {
+        "accountcreated" : "Account Created!",
+        "fail": "Something Went Wrong..",
+        "username": "Username",
+        "already": "Already have an account?"
+    },
+    "clock": {
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds"
+    },
+    "productcard": {
+        "productaddedfavs": "Product added to the favorites!"
+    },
+    "footer": {
+        "topcategories": "Top Categories",
+        "mobilephones": "Mobile Phones",
+        "modernsofa": "Modern Sofa",
+        "smartwatches": "Smart Watches",
+        "usefullinks": "Useful Links",
+        "privacy": "Privacy Policy",
+        "contact": "Contact",
+        "copyright": "Copyright"
+    }
+}

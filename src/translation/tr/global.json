@@ -1,0 +1,116 @@
+{
+    "header": {
+        "home": "Anasayfa",
+        "shop": "Ürünler",
+        "cart": "Sepet",
+        "loggedout": "Çıkış yapıldı!",
+        "logout": "Çıkış yap",
+        "myorders": "Siparişlerim",
+        "signup": "Kayıt ol",
+        "login": "Giriş yap",
+        "dashboard": "Panel"
+    },
+    "home": {
+        "trendingpr": "Sevilen Ürün",
+        "entry": "İç Mekanınızı Daha Minimalist ve Modern Hale Getirin",
+        "shopnow": "ŞİMDİ AL",
+        "loading": "Yükleniyor",
+        "trendingproducts": "Trend ürünler",
+        "bestsales": "Çok Satanlar",
+        "limitedoffers": "Sınırlı Teklif",
+        "qualityarmchair": "Kaliteli Tekli Koltuk",
+        "visitstore": "Mağazayı Ziyaret Et",
+        "newarrivals": "Yeni Gelenler",
+        "popularcategory": "Popüler Kategori"
+    },
+    "cart":{
+        "noitem": "Ürün bulunamadı!",
+        "image": "Resim",
+        "title": "Başlık",
+        "price": "Fiyat",
+        "qty": "Adet",
+        "delete": "Sil",
+        "subtotal": "Ara Toplam",
+        "taxes": "Kargo ve vergi ücreti ödeme sayfasında eklenecektir.",
+        "checkout": "Ödeme",
+        "continueshopping": "Alışverişe Devam Et"
+    },
+    "checkout": {
+        "billing": "Fatura Bilgisi",
+        "name": "İsim",
+        "email": "E-posta",
+        "phone": "Telefon",
+        "address": "Adres",
+        "city": "Şehir",
+        "postal": "Posta Kodu",
+        "country": "Ülke",
+        "totalquantity": "Toplam Adet",
+        "items": "ürün",
+        "shipping": "Kargo",
+        "freeshipping": "Ücretsiz Kargo",
+        "totalcost": "Toplam Ücret",
+        "placeorder": "Sipariş Ver",
+        "orderplaced": "Sipariş Verildi!",
+        "fillblanks": "Boşlukları Doldurun!"
+    },
+    "favorites": {
+        "favorites": "Favoriler"
+    },
+    "login": {
+        "password": "Şifre",
+        "noaccount": "Hesabınız yok mu?",
+        "create": "Hesap oluşturun"
+    },
+    "myorders": {
+        "orderdeleted": "Sipariş Silindi!"
+    },
+    "productdetails":{
+        "reviewsubmitted": "Değerlendirme Gönderildi!",
+        "productadded": "Ürün sepete eklendi!",
+        "category": "Kategori",
+        "addtocart": "Sepete Ekle",
+        "description": "Açıklama",
+        "reviews": "Değerlendirmeler",
+        "rating": "puan",
+        "leavereview": "Görüşlerini Paylaş",
+        "reviewmsg": "Değerlendirme Mesajı",
+        "submit": "Gönder",
+        "alsolike": "Bunları da Beğenebilirsiniz"
+    },
+    "shop": {
+        "sofa": "Koltuk",
+        "armchair": "Tekli Koltuk",
+        "mobile": "Mobil",
+        "chair": "Sandalye",
+        "watch": "Saat",
+        "wireless": "Kablosuz",
+        "filtercat": "Kategoriye Göre Filtrele",
+        "search": "Ara"
+    },
+    "signup":{
+        "accountcreated": "Hesap oluşturuldu!",
+        "fail": "Birşeyler Ters Gitti...",
+        "username": "Kullanıcı Adı",
+        "already": "Zaten hesabınız var mı?"
+    },
+    "clock": {
+        "days": "Gün",
+        "hours": "Saat",
+        "minutes": "Dakika",
+        "seconds": "Saniye"
+    },
+    "productcard": {
+        "productaddedfavs": "Ürün favorilere Eklendi!"
+    },
+    "footer": {
+        "topcategories": "Sevilen Kategoriler",
+        "mobilephones": "Mobil Telefonlar",
+        "modernsofa": "Modern Koltuk",
+        "smartwatches": "Akıllı Saatler",
+        "usefullinks": "Kullanışlı Linkler",
+        "privacy": "Gizlilik Politikası",
+        "contact": "İletişim",
+        "copyright": "Telif Hakları",
+        "developedby": "Deren Karabulak tarafından geliştirildi. Tüm hakları saklıdır"
+    }
+}
