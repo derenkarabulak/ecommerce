@@ -33,7 +33,8 @@
         "subtotal": "Ara Toplam",
         "taxes": "Kargo ve vergi ücreti ödeme sayfasında eklenecektir.",
         "checkout": "Ödeme",
-        "continueshopping": "Alışverişe Devam Et"
+        "continueshopping": "Alışverişe Devam Et",
+        "delete": "Sil"
     },
     "checkout": {
         "billing": "Fatura Bilgisi",

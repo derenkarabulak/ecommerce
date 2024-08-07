@@ -32,7 +32,8 @@
         "subtotal": "Subtotal",
         "taxes": "Taxes and shipping calculated in checkout.",
         "checkout": "Checkout",
-        "continueshopping": "Continue Shopping"
+        "continueshopping": "Continue Shopping",
+        "delete": "Delete"
     },
     "checkout": {
         "billing": "Billing Information",

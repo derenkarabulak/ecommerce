@@ -33,7 +33,7 @@ const Cart = () => {
                       <th>{t("cart.title")}</th>
                       <th>{t("cart.price")}</th>
                       <th>{t("cart.qty")}</th>
-                      <th>{t("cart.noitem")}</th>
+                      <th>{t("cart.delete")}</th>
                     </tr>
                   </thead>
                   <tbody>
