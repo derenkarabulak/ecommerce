@@ -2,7 +2,7 @@
 E-commerce project with React.js, Redux, Tailwind CSS and Firebase.
 
 # Visuals
-### Add products to your favorite list.
+### Add products to your favorites list.
 ![favs](https://github.com/user-attachments/assets/bda11c66-e67c-4f01-b64c-106cd0315fc3)
 ### Buy products fast and easy.
 ![cart](https://github.com/user-attachments/assets/bcdfe554-76f3-4567-92fe-73e79a9d2fe7)
