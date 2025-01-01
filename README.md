@@ -1,6 +1,6 @@
 # What is it?
 E-commerce project with React.js, Redux, Tailwind CSS and Firebase.
-#How to run?
+# How to run?
   -Go the project directory from your terminal.<br/>
   -Run "npm start"
 
